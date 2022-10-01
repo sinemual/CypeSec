@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: a3b0de224c120034dadfddbf59a26c70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3739319558654260410
+    second: sandbox_0
+  - first:
+      213: -7704916790674088879
+    second: sandbox_1
+  - first:
+      213: 7267938956372341783
+    second: sandbox_2
+  - first:
+      213: 2820932003111451281
+    second: sandbox_3
+  - first:
+      213: -5564268041470623214
+    second: sandbox_4
+  - first:
+      213: -7330891990313733364
+    second: sandbox_5
+  - first:
+      213: -3321388084368208483
+    second: sandbox_6
+  - first:
+      213: -5548841849629667247
+    second: sandbox_7
+  - first:
+      213: 3938122075944164367
+    second: sandbox_8
+  - first:
+      213: -6369510920362292897
+    second: sandbox_9
+  - first:
+      213: -4101495829940880933
+    second: sandbox_10
+  - first:
+      213: 267643519278815622
+    second: sandbox_11
+  - first:
+      213: -2701313613933696595
+    second: sandbox_12
+  - first:
+      213: -2156949440833408262
+    second: sandbox_13
+  - first:
+      213: -4717460323474131921
+    second: sandbox_14
+  - first:
+      213: -1652502546812291969
+    second: sandbox_15
+  - first:
+      213: -9060392613671832824
+    second: sandbox_16
+  - first:
+      213: -7533133738685934371
+    second: sandbox_17
+  - first:
+      213: 2029083020407913728
+    second: sandbox_18
+  - first:
+      213: 8413702655495993730
+    second: sandbox_19
+  - first:
+      213: 2295175594315314435
+    second: sandbox_20
+  - first:
+      213: 8991140746782912427
+    second: sandbox_21
+  - first:
+      213: 1220623589697212717
+    second: sandbox_22
+  - first:
+      213: -9106040422517797907
+    second: sandbox_23
+  - first:
+      213: 1104363576664532008
+    second: sandbox_24
+  - first:
+      213: -1062230708811548110
+    second: sandbox_25
+  - first:
+      213: -2101815323268210722
+    second: sandbox_26
+  - first:
+      213: -1017610249121113964
+    second: sandbox_27
+  - first:
+      213: 516915534662898509
+    second: sandbox_28
+  - first:
+      213: 6208481075791439957
+    second: sandbox_29
+  - first:
+      213: -4552953910950561820
+    second: sandbox_30
+  - first:
+      213: 6280055449914943695
+    second: sandbox_31
+  - first:
+      213: 6502035954457673507
+    second: sandbox_32
+  - first:
+      213: 5465029912912996641
+    second: sandbox_33
+  - first:
+      213: 8786609516963511673
+    second: sandbox_34
+  - first:
+      213: 7551387934483624790
+    second: sandbox_35
+  - first:
+      213: 3771563243308312227
+    second: sandbox_36
+  - first:
+      213: -3516691799177397816
+    second: sandbox_37
+  - first:
+      213: -4928673844692212028
+    second: sandbox_38
+  - first:
+      213: 5206293707524128441
+    second: sandbox_39
+  - first:
+      213: -7698880415160435576
+    second: sandbox_40
+  - first:
+      213: -4943464521766790080
+    second: sandbox_41
+  - first:
+      213: -4913076927565224161
+    second: sandbox_42
+  - first:
+      213: 4450666877918931882
+    second: sandbox_43
+  - first:
+      213: 8606481908168052075
+    second: sandbox_44
+  - first:
+      213: 245525150684550598
+    second: sandbox_45
+  - first:
+      213: 3339646289841601933
+    second: sandbox_46
+  - first:
+      213: 3951702477614101704
+    second: sandbox_47
+  - first:
+      213: 766649641298364391
+    second: sandbox_48
+  - first:
+      213: -5270084365653589515
+    second: sandbox_49
+  - first:
+      213: -7163016306022781610
+    second: sandbox_50
+  - first:
+      213: 3037391697231285087
+    second: sandbox_51
+  - first:
+      213: -6355949991057087957
+    second: sandbox_52
+  - first:
+      213: 423506593264328631
+    second: sandbox_53
+  - first:
+      213: -5699322112199415780
+    second: sandbox_54
+  - first:
+      213: 4537191945813794797
+    second: sandbox_55
+  - first:
+      213: -6105646394575374360
+    second: sandbox_56
+  - first:
+      213: -6595275053813234149
+    second: sandbox_57
+  - first:
+      213: -7859272896644913333
+    second: sandbox_58
+  - first:
+      213: 6989697768015913906
+    second: sandbox_59
+  - first:
+      213: -2793589180241414967
+    second: sandbox_60
+  - first:
+      213: 3564540782186105488
+    second: sandbox_61
+  - first:
+      213: 7825864521590919086
+    second: sandbox_62
+  - first:
+      213: -6542505551235428826
+    second: sandbox_63
+  - first:
+      213: 4799547726543821895
+    second: sandbox_64
+  - first:
+      213: 7861614935906700454
+    second: sandbox_65
+  - first:
+      213: 1901083696880649816
+    second: sandbox_66
+  - first:
+      213: -4127669497756561279
+    second: sandbox_67
+  - first:
+      213: 8807000771443964812
+    second: sandbox_68
+  - first:
+      213: -7533891315712756304
+    second: sandbox_69
+  - first:
+      213: -4475878717811548943
+    second: sandbox_70
+  - first:
+      213: 5151962614583625095
+    second: traps_0
+  - first:
+      213: 7382210792774636493
+    second: traps_1
+  - first:
+      213: 1677892837291520079
+    second: traps_2
+  - first:
+      213: -5649287348548866009
+    second: traps_3
+  - first:
+      213: 634759175760961191
+    second: traps_4
+  - first:
+      213: -6262696667490262353
+    second: traps_5
+  - first:
+      213: -4416010398594781116
+    second: traps_6
+  - first:
+      213: 4740669236936875428
+    second: traps_7
+  - first:
+      213: -975429782633763189
+    second: traps_8
+  - first:
+      213: -3617168373825667881
+    second: traps_9
+  - first:
+      213: 862350984937958004
+    second: traps_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandbox_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44855e4adb1281645887ee7d808958f8
+      internalID: -7704916790674088879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b83097e7a251234bb850e9618febd8b
+      internalID: -9106040422517797907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 107
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906fdff35610f54fb8d53f42b2a05e3
+      internalID: -5270084365653589515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee16560b9c56de488d454190040bcd6
+      internalID: 267643519278815622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc27eb49455474abe32da1d692ad4d
+      internalID: -2701313613933696595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e1c7b6c9b45394d8038332625ed90a
+      internalID: -4717460323474131921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138e29c8de9011458e459b5ee7efab0
+      internalID: -4475878717811548943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d19de8dd30de444b2405714946c446
+      internalID: 5151962614583625095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac855b02ad43184282b152b9fb40c52
+      internalID: 7382210792774636493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be9318f3077694aa483e67948a251d
+      internalID: 1677892837291520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd90f5ca76b0348bd6a3b379895599
+      internalID: -5649287348548866009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 120
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa8e0971569044ba2d22aa2e363739
+      internalID: 634759175760961191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4248e1bbf6c84bb24227bdfcf1aa9
+      internalID: -6262696667490262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ce0cfe614c8c41883ccc047825240
+      internalID: -4416010398594781116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4831ca79a714e48ae1d5c273ce30a5
+      internalID: 4740669236936875428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a10663c24f8f4eb0c21401f7a5a67
+      internalID: -975429782633763189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7acbbc5526c0304f9928e5db44b2ba2
+      internalID: -3617168373825667881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 123
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ca70581998b54f83525ede54c8414
+      internalID: 862350984937958004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

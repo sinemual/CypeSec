@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: 9393d862c67a5f64cb4260627ea2b965
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3739319558654260410
+    second: sandbox_0
+  - first:
+      213: -7704916790674088879
+    second: sandbox_1
+  - first:
+      213: 7267938956372341783
+    second: sandbox_2
+  - first:
+      213: 2820932003111451281
+    second: sandbox_3
+  - first:
+      213: -5564268041470623214
+    second: sandbox_4
+  - first:
+      213: -7330891990313733364
+    second: sandbox_5
+  - first:
+      213: -3321388084368208483
+    second: sandbox_6
+  - first:
+      213: -5548841849629667247
+    second: sandbox_7
+  - first:
+      213: 3938122075944164367
+    second: sandbox_8
+  - first:
+      213: -6369510920362292897
+    second: sandbox_9
+  - first:
+      213: -4101495829940880933
+    second: sandbox_10
+  - first:
+      213: 267643519278815622
+    second: sandbox_11
+  - first:
+      213: -2701313613933696595
+    second: sandbox_12
+  - first:
+      213: -2156949440833408262
+    second: sandbox_13
+  - first:
+      213: -4717460323474131921
+    second: sandbox_14
+  - first:
+      213: -1652502546812291969
+    second: sandbox_15
+  - first:
+      213: -9060392613671832824
+    second: sandbox_16
+  - first:
+      213: -7533133738685934371
+    second: sandbox_17
+  - first:
+      213: 2029083020407913728
+    second: sandbox_18
+  - first:
+      213: 8413702655495993730
+    second: sandbox_19
+  - first:
+      213: 2295175594315314435
+    second: sandbox_20
+  - first:
+      213: 8991140746782912427
+    second: sandbox_21
+  - first:
+      213: 1220623589697212717
+    second: sandbox_22
+  - first:
+      213: -9106040422517797907
+    second: sandbox_23
+  - first:
+      213: 1104363576664532008
+    second: sandbox_24
+  - first:
+      213: -1062230708811548110
+    second: sandbox_25
+  - first:
+      213: -2101815323268210722
+    second: sandbox_26
+  - first:
+      213: -1017610249121113964
+    second: sandbox_27
+  - first:
+      213: 516915534662898509
+    second: sandbox_28
+  - first:
+      213: 6208481075791439957
+    second: sandbox_29
+  - first:
+      213: -4552953910950561820
+    second: sandbox_30
+  - first:
+      213: 6280055449914943695
+    second: sandbox_31
+  - first:
+      213: 6502035954457673507
+    second: sandbox_32
+  - first:
+      213: 5465029912912996641
+    second: sandbox_33
+  - first:
+      213: 8786609516963511673
+    second: sandbox_34
+  - first:
+      213: 7551387934483624790
+    second: sandbox_35
+  - first:
+      213: 3771563243308312227
+    second: sandbox_36
+  - first:
+      213: -3516691799177397816
+    second: sandbox_37
+  - first:
+      213: -4928673844692212028
+    second: sandbox_38
+  - first:
+      213: 5206293707524128441
+    second: sandbox_39
+  - first:
+      213: -7698880415160435576
+    second: sandbox_40
+  - first:
+      213: -4943464521766790080
+    second: sandbox_41
+  - first:
+      213: -4913076927565224161
+    second: sandbox_42
+  - first:
+      213: 4450666877918931882
+    second: sandbox_43
+  - first:
+      213: 8606481908168052075
+    second: sandbox_44
+  - first:
+      213: 245525150684550598
+    second: sandbox_45
+  - first:
+      213: 3339646289841601933
+    second: sandbox_46
+  - first:
+      213: 3951702477614101704
+    second: sandbox_47
+  - first:
+      213: 766649641298364391
+    second: sandbox_48
+  - first:
+      213: -5270084365653589515
+    second: sandbox_49
+  - first:
+      213: -7163016306022781610
+    second: sandbox_50
+  - first:
+      213: 3037391697231285087
+    second: sandbox_51
+  - first:
+      213: -6355949991057087957
+    second: sandbox_52
+  - first:
+      213: 423506593264328631
+    second: sandbox_53
+  - first:
+      213: -5699322112199415780
+    second: sandbox_54
+  - first:
+      213: 4537191945813794797
+    second: sandbox_55
+  - first:
+      213: -6105646394575374360
+    second: sandbox_56
+  - first:
+      213: -6595275053813234149
+    second: sandbox_57
+  - first:
+      213: -7859272896644913333
+    second: sandbox_58
+  - first:
+      213: 6989697768015913906
+    second: sandbox_59
+  - first:
+      213: -2793589180241414967
+    second: sandbox_60
+  - first:
+      213: 3564540782186105488
+    second: sandbox_61
+  - first:
+      213: 7825864521590919086
+    second: sandbox_62
+  - first:
+      213: -6542505551235428826
+    second: sandbox_63
+  - first:
+      213: 4799547726543821895
+    second: sandbox_64
+  - first:
+      213: 7861614935906700454
+    second: sandbox_65
+  - first:
+      213: 1901083696880649816
+    second: sandbox_66
+  - first:
+      213: -4127669497756561279
+    second: sandbox_67
+  - first:
+      213: 8807000771443964812
+    second: sandbox_68
+  - first:
+      213: -7533891315712756304
+    second: sandbox_69
+  - first:
+      213: -4475878717811548943
+    second: sandbox_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandbox_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713ef53d5682c74db8f9dd937819064
+      internalID: 3739319558654260410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c6365eeff6ba418509aa612ad6e85
+      internalID: -7330891990313733364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42999bcbd009f4e8673a16e2ceec2a
+      internalID: -3321388084368208483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4f3e3665d108418420188e29f3d1b
+      internalID: -5548841849629667247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 198
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4bf8cb37fa12546b223ca58f78b970
+      internalID: -2156949440833408262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41aff93db8b46c48b1753981d3a05cc
+      internalID: 2029083020407913728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6bbbc05564a314db989654463af226
+      internalID: 8413702655495993730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0189dbb75d6f468439d5571777d6c
+      internalID: 3938122075944164367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 119
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e3d5ed87821e4fa3edc714cf978eb
+      internalID: -4101495829940880933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c77bed5973074999ec9ed91e3a634
+      internalID: -9060392613671832824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 2
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385f2d6418ad4c42951b1986068919a
+      internalID: -1062230708811548110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 170
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a704565f5df247bd89568d2ca1f20
+      internalID: -1017610249121113964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7433e122c43fe784ba97fa68474ab069
+      internalID: 516915534662898509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 154
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4bc7cd6afbce4ebb067f85f0192ee
+      internalID: -4943464521766790080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 138
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320febfe9c219b4e91b11b1d96c7b23
+      internalID: -4913076927565224161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 126
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9193bf1f105a842890166fdece5ef9
+      internalID: 4450666877918931882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 124
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08d4d1cb1358440a19fd90d4c2b2f5
+      internalID: 8606481908168052075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 12
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af3a8718c5d9044a4063dc7cf85f79
+      internalID: 245525150684550598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b84fcbc061c849b07d7ffdc0648de
+      internalID: 7267938956372341783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a65922d86f8e242a01c4beab626309
+      internalID: 2820932003111451281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f80d6bcca2e04ea4585b05f6c49ed
+      internalID: -5564268041470623214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab24e2dc60f9fed48ab2cf3d67c0c9e1
+      internalID: -6369510920362292897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb6dcafddc85f4bac14dc5f444118f
+      internalID: 6208481075791439957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: -2.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e633946db57b4b9ff395639451513
+      internalID: -7698880415160435576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 54
+        width: 5
+        height: 16
+      alignment: 9
+      pivot: {x: 2.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d852889ca63e14daf25071d4b2f39b
+      internalID: -7163016306022781610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 2
+        height: 16
+      alignment: 9
+      pivot: {x: -4.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199640c4893ea2c4bb22691d1cb3d437
+      internalID: 3037391697231285087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36beb4319e8b3c844894cc3b72956ad4
+      internalID: -6355949991057087957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 140
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7dd4b0edb85814ca8ae8f13dbbc1bc
+      internalID: 423506593264328631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911c4f6914465d488855c4cd34eb877
+      internalID: 4537191945813794797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16783defcd6747d41ba56391728d62e9
+      internalID: -6105646394575374360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 2
+        height: 16
+      alignment: 9
+      pivot: {x: 5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edb9c4358264443a2b520479a5d9fd
+      internalID: -6595275053813234149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 2
+        height: 16
+      alignment: 9
+      pivot: {x: -4.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0bf5d691c86f40827707d7cd76c01
+      internalID: -7859272896644913333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 54
+        width: 2
+        height: 16
+      alignment: 9
+      pivot: {x: 5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de210abdf3ad54f8f7a7f33ffcf95b
+      internalID: 6989697768015913906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285e91359f052b428128ba5e06c54b5
+      internalID: -2793589180241414967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 16
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: -2.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4230ef72fc2614d84490994c034b9b
+      internalID: 3564540782186105488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 40
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9a21ee439b6241bdce4109c14bd6d
+      internalID: 7825864521590919086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62941cc2a5454fd44b68c7a1921a94ca
+      internalID: -6542505551235428826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c786604fd78c429faf774180f717f
+      internalID: 4799547726543821895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326410532eec3754fa33bd50f82cadb4
+      internalID: 7861614935906700454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3977994e85f8d4780e25fe8b2d752c
+      internalID: 1901083696880649816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2528236ae08a2348aa3d445c433db0b
+      internalID: -4127669497756561279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39dc8dcf862a014d98491fd2790da17
+      internalID: 8807000771443964812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6f14005e986c41b4240166e8c46ab
+      internalID: -7533891315712756304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f5e70d9d4bc8468082166cccba3e3
+      internalID: 2295175594315314435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 185
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f3343595cdb24f8902fe2abea96b9
+      internalID: -7704916790674088879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3deca5107cced9408556db72a74a124
+      internalID: 267643519278815622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

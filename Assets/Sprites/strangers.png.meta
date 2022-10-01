@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: f6628703f978022448e80f86c5a55623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3739319558654260410
+    second: sandbox_0
+  - first:
+      213: -7704916790674088879
+    second: sandbox_1
+  - first:
+      213: 7267938956372341783
+    second: sandbox_2
+  - first:
+      213: 2820932003111451281
+    second: sandbox_3
+  - first:
+      213: -5564268041470623214
+    second: sandbox_4
+  - first:
+      213: -7330891990313733364
+    second: sandbox_5
+  - first:
+      213: -3321388084368208483
+    second: sandbox_6
+  - first:
+      213: -5548841849629667247
+    second: sandbox_7
+  - first:
+      213: 3938122075944164367
+    second: sandbox_8
+  - first:
+      213: -6369510920362292897
+    second: sandbox_9
+  - first:
+      213: -4101495829940880933
+    second: sandbox_10
+  - first:
+      213: 267643519278815622
+    second: sandbox_11
+  - first:
+      213: -2701313613933696595
+    second: sandbox_12
+  - first:
+      213: -2156949440833408262
+    second: sandbox_13
+  - first:
+      213: -4717460323474131921
+    second: sandbox_14
+  - first:
+      213: -1652502546812291969
+    second: sandbox_15
+  - first:
+      213: -9060392613671832824
+    second: sandbox_16
+  - first:
+      213: -7533133738685934371
+    second: sandbox_17
+  - first:
+      213: 2029083020407913728
+    second: sandbox_18
+  - first:
+      213: 8413702655495993730
+    second: sandbox_19
+  - first:
+      213: 2295175594315314435
+    second: sandbox_20
+  - first:
+      213: 8991140746782912427
+    second: sandbox_21
+  - first:
+      213: 1220623589697212717
+    second: sandbox_22
+  - first:
+      213: -9106040422517797907
+    second: sandbox_23
+  - first:
+      213: 1104363576664532008
+    second: sandbox_24
+  - first:
+      213: -1062230708811548110
+    second: sandbox_25
+  - first:
+      213: -2101815323268210722
+    second: sandbox_26
+  - first:
+      213: -1017610249121113964
+    second: sandbox_27
+  - first:
+      213: 516915534662898509
+    second: sandbox_28
+  - first:
+      213: 6208481075791439957
+    second: sandbox_29
+  - first:
+      213: -4552953910950561820
+    second: sandbox_30
+  - first:
+      213: 6280055449914943695
+    second: sandbox_31
+  - first:
+      213: 6502035954457673507
+    second: sandbox_32
+  - first:
+      213: 5465029912912996641
+    second: sandbox_33
+  - first:
+      213: 8786609516963511673
+    second: sandbox_34
+  - first:
+      213: 7551387934483624790
+    second: sandbox_35
+  - first:
+      213: 3771563243308312227
+    second: sandbox_36
+  - first:
+      213: -3516691799177397816
+    second: sandbox_37
+  - first:
+      213: -4928673844692212028
+    second: sandbox_38
+  - first:
+      213: 5206293707524128441
+    second: sandbox_39
+  - first:
+      213: -7698880415160435576
+    second: sandbox_40
+  - first:
+      213: -4943464521766790080
+    second: sandbox_41
+  - first:
+      213: -4913076927565224161
+    second: sandbox_42
+  - first:
+      213: 4450666877918931882
+    second: sandbox_43
+  - first:
+      213: 8606481908168052075
+    second: sandbox_44
+  - first:
+      213: 245525150684550598
+    second: sandbox_45
+  - first:
+      213: 3339646289841601933
+    second: sandbox_46
+  - first:
+      213: 3951702477614101704
+    second: sandbox_47
+  - first:
+      213: 766649641298364391
+    second: sandbox_48
+  - first:
+      213: -5270084365653589515
+    second: sandbox_49
+  - first:
+      213: -7163016306022781610
+    second: sandbox_50
+  - first:
+      213: 3037391697231285087
+    second: sandbox_51
+  - first:
+      213: -6355949991057087957
+    second: sandbox_52
+  - first:
+      213: 423506593264328631
+    second: sandbox_53
+  - first:
+      213: -5699322112199415780
+    second: sandbox_54
+  - first:
+      213: 4537191945813794797
+    second: sandbox_55
+  - first:
+      213: -6105646394575374360
+    second: sandbox_56
+  - first:
+      213: -6595275053813234149
+    second: sandbox_57
+  - first:
+      213: -7859272896644913333
+    second: sandbox_58
+  - first:
+      213: 6989697768015913906
+    second: sandbox_59
+  - first:
+      213: -2793589180241414967
+    second: sandbox_60
+  - first:
+      213: 3564540782186105488
+    second: sandbox_61
+  - first:
+      213: 7825864521590919086
+    second: sandbox_62
+  - first:
+      213: -2857764059661053380
+    second: strangers_0
+  - first:
+      213: -768046081421726449
+    second: strangers_1
+  - first:
+      213: 1509810115623006686
+    second: strangers_2
+  - first:
+      213: -4362066190769217739
+    second: strangers_3
+  - first:
+      213: -9033660861093254996
+    second: strangers_4
+  - first:
+      213: 248632311894904351
+    second: strangers_5
+  - first:
+      213: 3376097881472888560
+    second: strangers_6
+  - first:
+      213: -1205412009840485425
+    second: strangers_7
+  - first:
+      213: 4341556736266593065
+    second: strangers_8
+  - first:
+      213: 2041435100546848382
+    second: strangers_9
+  - first:
+      213: 352037308385425023
+    second: strangers_10
+  - first:
+      213: 6496213332655522506
+    second: strangers_11
+  - first:
+      213: 2274449957897162601
+    second: strangers_12
+  - first:
+      213: -8857390179250961777
+    second: strangers_13
+  - first:
+      213: 8350677392602663218
+    second: strangers_14
+  - first:
+      213: 312490364499126711
+    second: strangers_15
+  - first:
+      213: 4481328585953299034
+    second: strangers_16
+  - first:
+      213: -8388069039667341439
+    second: strangers_17
+  - first:
+      213: -193416123436795436
+    second: strangers_18
+  - first:
+      213: -2913519466574820005
+    second: strangers_19
+  - first:
+      213: -4137645890038212582
+    second: strangers_20
+  - first:
+      213: 4000166243761149105
+    second: strangers_21
+  - first:
+      213: 548162838368793628
+    second: strangers_22
+  - first:
+      213: -5083078385021674756
+    second: strangers_23
+  - first:
+      213: -7125973493266342302
+    second: strangers_24
+  - first:
+      213: 6433590039320449866
+    second: strangers_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandbox_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187214cbb51ce334785792dea7a81ae7
+      internalID: -4552953910950561820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228302a4cf765341b38b8fb23ec024f
+      internalID: 3339646289841601933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b82efb868e4c974e92104781532fe64
+      internalID: 3951702477614101704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandbox_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef001736530fe4486ea8da8c3d0ae1
+      internalID: 766649641298364391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631fc2f0d9d56740af096e10a357e6a
+      internalID: -2857764059661053380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1eaa20d60d634baebf31d822c1aa7
+      internalID: -768046081421726449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330f3d16778625040927726a8e50ecc7
+      internalID: 1509810115623006686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0f2204d5769241955af74329b34ad
+      internalID: -4362066190769217739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d6c2c2481db546b813a9e3b3d1538
+      internalID: -9033660861093254996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921205ec9670c1c4ba27610b31264cb5
+      internalID: 248632311894904351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23732412d0e6686468a8bf311fc15f59
+      internalID: 3376097881472888560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954d7c451169314094c5c13b56c719c
+      internalID: -1205412009840485425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201f9f70ceb5bc46be3b28cfc36e864
+      internalID: 4341556736266593065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2127e6b02fdc14a9cb99121cd4487c
+      internalID: 2041435100546848382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633253e9d45e2a64b9d0d363c6a585ef
+      internalID: 352037308385425023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aef61b25a3f834e827cd91993714bc
+      internalID: 6496213332655522506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313f2957307fe045aa650bb58e32b7a
+      internalID: 2274449957897162601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbb62b3167e5747a3147eb72fee4bc
+      internalID: -8857390179250961777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768ecfe3cf0e9f42a98dd0c83e93f7a
+      internalID: 8350677392602663218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c240b6cd273e874484c1e2a0c8501d0
+      internalID: 312490364499126711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34ea9a57c7af9408fa74b37c8918bc
+      internalID: 4481328585953299034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7a01e0bdc3964c9f901a12f32790d
+      internalID: -8388069039667341439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc12dbe4eaf6d4c8023b4f0a53072e
+      internalID: -193416123436795436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e34160a7846c4e8364f93d29a7fc1
+      internalID: -2913519466574820005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be5f37594ae4d4aa9bc74deabd07f5
+      internalID: -4137645890038212582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da190941cfa5bd84780eb57e1bc6a930
+      internalID: 4000166243761149105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d1b570302cba4686f1459e97c8f2f
+      internalID: 548162838368793628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f9d95a46a47b469151c7769710087
+      internalID: -5083078385021674756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1784e3c0b1b515e4dbd669573fefaae0
+      internalID: -7125973493266342302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strangers_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 20
+        height: 16
+      alignment: 9
+      pivot: {x: 0.31784135, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349851d07ba10046b4331e3a5b02b06
+      internalID: 6433590039320449866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
